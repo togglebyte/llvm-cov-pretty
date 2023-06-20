@@ -11,6 +11,7 @@ More beautiful HTML reports for `llvm-cov` ([cargo-llvm-cov](https://github.com/
 ## Installation
 
 ### From source
+Make sure you have [cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov#installation) installed.
 
 To build the project from source, you need a recent installation of Rust. The recommended installation method is through [rustup](https://rustup.rs/). Then open up a terminal and install the project as follows:
 
